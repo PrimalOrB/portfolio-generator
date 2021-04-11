@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "generate portfolio page using node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimalOrB/portfolio-generator.git"
+  },
+  "keywords": [
+    "node",
+    "generator"
+  ],
+  "author": "Andrew Ogilvie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrimalOrB/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/PrimalOrB/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
